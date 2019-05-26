@@ -12,4 +12,5 @@
 $ bash linux_syscheck.sh
 ```
 4,数据存放
-脚本跑完后,巡检数据会以${ip}.tar.gz的形式存放在/tmp目录下
+
+    脚本跑完后,巡检数据会以${ip}.tar.gz的形式存放在/tmp目录下
